@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peengecees.pinzhou.wang/sitemap.xml
